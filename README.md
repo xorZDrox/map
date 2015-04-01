@@ -1,6 +1,6 @@
 
 #### Test di condivisione
-#### [The Map](test2.geojson)
+##### [Mappa](test2.geojson)
 #### License
 CC-BY-SA
 ##### How to contribute
