@@ -1,8 +1,5 @@
 
 #### Test di condivisione
-
-<!--<img src="https://travis-ci.org/benbalter/dc-wifi-social.png">-->
-##### Un sistema collaborativo su base https://travis-ci.org/benbalter/dc-wifi-social 
 #### [The Map](test2.geojson)
 #### License
 CC-BY-SA
