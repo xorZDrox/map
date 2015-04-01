@@ -10,9 +10,9 @@ CC-BY-SA
 1. Fork il progetto
 2. Inserisci o edita il geojson usando gejson.io
 3. invia le modifiche
-##### Valida il formato geoJSON
+Valida il formato geoJSON
 Il sistema rileva automaticamente se il fromato geoJSON è corretto
-##### cerca lat/long  del posto di interesse
+Cerca le coordinate lat/long  del posto di interesse
 http://geocoder.us/
 
 
