@@ -27,6 +27,6 @@ When you submit a pull request, it will automatically check to ensure your geoJS
 If you'd like to check yourself, pasting the contents of `report.geojson` into http://geojsonlint.com.
 
 ##### how to put report in the map.
-I use this editor, `geojson.io` and copy the gejson formt result in the fork file.
+Use this editor, `geojson.io` and copy the gejson format result in the fork file.
 
 ##### Credit: benbalter/dc-wifi-social/
