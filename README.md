@@ -29,4 +29,4 @@ If you'd like to check yourself, pasting the contents of `report.geojson` into h
 ##### how to put report in the map.
 I use this editor, `geojson.io` and copy the gejson formt result in the fork file.
 
-##### Credit: `benbalter/dc-wifi-social/blob/master/bars.geojson`
+##### Credit: benbalter/dc-wifi-social/
